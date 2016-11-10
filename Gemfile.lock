@@ -18,6 +18,14 @@ GIT
       routing-filter (~> 0.5.0)
       spree_core (~> 3.1.0.beta)
 
+GIT
+  remote: git://github.com/spree-contrib/spree_wishlist.git
+  revision: ba191ba7353c35e97db38f1cad37a93e32e43ede
+  branch: 3-1-stable
+  specs:
+    spree_wishlist (2.2.0)
+      spree_core (~> 3.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -360,6 +368,7 @@ DEPENDENCIES
   spree_auth_devise (~> 3.1.0)
   spree_gateway (~> 3.1.0)
   spree_i18n!
+  spree_wishlist!
   spring
   turbolinks
   uglifier (>= 1.3.0)
