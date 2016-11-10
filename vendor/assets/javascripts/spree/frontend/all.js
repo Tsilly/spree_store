@@ -13,3 +13,4 @@
 //= require spree/frontend/spree_i18n
 //= require spree/frontend/spree_address_book
 //= require spree/frontend/spree_wishlist
+//= require spree/frontend/spree_contact_us
