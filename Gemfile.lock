@@ -1,4 +1,12 @@
 GIT
+  remote: git://github.com/scan/spree_multi_currency.git
+  revision: 0b2903991499053faf3bd0a0d6f2bdd9f93f1935
+  branch: master
+  specs:
+    spree_multi_currency (3.1.0.beta)
+      spree_backend (~> 3.1.0.beta)
+
+GIT
   remote: git://github.com/spree-contrib/spree_address_book.git
   revision: 0ec07d938ba1a4b083d94516b510a4db7e96c5f7
   branch: 3-1-stable
@@ -397,6 +405,7 @@ DEPENDENCIES
   spree_contact_us!
   spree_gateway (~> 3.1.0)
   spree_i18n!
+  spree_multi_currency!
   spree_print_invoice!
   spree_wishlist!
   spring

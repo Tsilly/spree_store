@@ -14,3 +14,4 @@
 //= require spree/frontend/spree_address_book
 //= require spree/frontend/spree_wishlist
 //= require spree/frontend/spree_contact_us
+//= require spree/frontend/spree_multi_currency
