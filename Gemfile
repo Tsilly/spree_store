@@ -45,5 +45,4 @@ gem 'spree_print_invoice', github: 'spree-contrib/spree_print_invoice', branch: 
 gem 'spree_contact_us', github: 'spree-contrib/spree_contact_us', branch: 'master'
 gem 'spree_multi_currency', github: 'scan/spree_multi_currency', branch: 'master'
 
-#
-# gem 'spree_paypal_express', github: 'spree-contrib/better_spree_paypal_express', branch: '3-0-stable'
+gem 'spree_paypal_express', github: 'spree-contrib/better_spree_paypal_express', branch: 'master'
